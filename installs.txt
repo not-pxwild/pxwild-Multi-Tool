@@ -1,0 +1,1 @@
+pip install requests phonenumbers beautifulsoup4 exif python-whois googlesearch-python PyQt6 cryptography pyinstaller customtkinter pillow rich pyautogui opencv-python pynput psutil pywin32 colorama buildozer
