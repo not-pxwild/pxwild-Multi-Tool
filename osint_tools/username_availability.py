@@ -9,8 +9,13 @@ SITES = {
     "GitHub": "https://github.com/{}",
     "Twitter": "https://twitter.com/{}",
     "Instagram": "https://instagram.com/{}",
-    "Reddit": "https://www.reddit.com/user/{}",
+    "Reddit": "https://reddit.com/user/{}",
+    "Facebook": "https://www.facebook.com/{}",
     "TikTok": "https://www.tiktok.com/@{}",
+    "YouTube": "https://www.youtube.com/@{}",
+    "LinkedIn": "https://www.linkedin.com/in/{}",
+    "Pinterest": "https://www.pinterest.com/{}",
+    "Twitch": "https://www.twitch.tv/{}",
 }
 
 def exists(url: str) -> bool:
@@ -47,4 +52,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
