@@ -180,7 +180,7 @@ def main():
         clear_screen()
         print_banner()
         print_menu()
-        choice = input(f"{red}Select option (1-6), N for OSINT, Q to quit: {reset}") 
+        choice = input(f"{red}Select option (1-7), N for OSINT, Q to quit: {reset}") 
         if choice.upper() == 'N':
             osint_section()
             continue
@@ -203,4 +203,5 @@ def main():
             time.sleep(1)
 
 if __name__ == "__main__":
+
     main()
