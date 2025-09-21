@@ -2,7 +2,7 @@
 
 *Created by pxwild*
 
-![GitHub](https://img.shields.io/github/license/pxwild/pxwild-Multi-Tool?style=flat-square)
+![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 ![Purpose](https://img.shields.io/badge/purpose-educational-green?style=flat-square)
 
 ## Overview
